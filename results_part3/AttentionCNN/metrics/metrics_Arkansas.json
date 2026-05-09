@@ -1,0 +1,14 @@
+{
+  "OA": 0.9694,
+  "Kappa": 0.9618,
+  "F1_macro": 0.9691,
+  "F1_weighted": 0.9693,
+  "n_params": 129567,
+  "train_time_s": 55.5,
+  "inference_time_s": 0.322,
+  "state": "Arkansas",
+  "config": "AttentionCNN",
+  "model": "AttentionCNN_v3",
+  "covariates_used": "all",
+  "n_covariates": 8
+}

@@ -1,0 +1,62 @@
+{
+  "S2_only": {
+    "OA": 0.8665,
+    "Kappa": 0.8377,
+    "F1_macro": 0.88,
+    "F1_weighted": 0.8668,
+    "n_params": 7832,
+    "train_time_s": 80.99,
+    "inference_time_s": 0.406,
+    "state": "California",
+    "config": "S2_only",
+    "covariates_used": "none"
+  },
+  "S2_climate": {
+    "OA": 0.8712,
+    "Kappa": 0.8435,
+    "F1_macro": 0.8853,
+    "F1_weighted": 0.8726,
+    "n_params": 10536,
+    "train_time_s": 47.54,
+    "inference_time_s": 0.388,
+    "state": "California",
+    "config": "S2_climate",
+    "covariates_used": "clim"
+  },
+  "S2_soil": {
+    "OA": 0.8724,
+    "Kappa": 0.845,
+    "F1_macro": 0.8846,
+    "F1_weighted": 0.8725,
+    "n_params": 10536,
+    "train_time_s": 71.74,
+    "inference_time_s": 0.377,
+    "state": "California",
+    "config": "S2_soil",
+    "covariates_used": "soil"
+  },
+  "S2_topo": {
+    "OA": 0.8694,
+    "Kappa": 0.8413,
+    "F1_macro": 0.8836,
+    "F1_weighted": 0.8706,
+    "n_params": 10504,
+    "train_time_s": 50.65,
+    "inference_time_s": 0.358,
+    "state": "California",
+    "config": "S2_topo",
+    "covariates_used": "topo"
+  },
+  "S2_all": {
+    "OA": 0.8646,
+    "Kappa": 0.8355,
+    "F1_macro": 0.8795,
+    "F1_weighted": 0.8664,
+    "n_params": 10696,
+    "train_time_s": 44.61,
+    "inference_time_s": 0.37,
+    "state": "California",
+    "config": "S2_all",
+    "covariates_used": "all"
+  }
+}

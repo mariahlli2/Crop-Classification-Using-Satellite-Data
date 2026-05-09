@@ -1,0 +1,12 @@
+{
+  "OA": 0.9598,
+  "Kappa": 0.9497,
+  "F1_macro": 0.9593,
+  "F1_weighted": 0.9595,
+  "n_params": 10407,
+  "train_time_s": 37.0,
+  "inference_time_s": 0.35,
+  "state": "Arkansas",
+  "config": "S2_climate",
+  "covariates_used": "clim"
+}

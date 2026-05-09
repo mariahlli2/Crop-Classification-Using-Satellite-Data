@@ -1,0 +1,12 @@
+{
+  "OA": 0.8646,
+  "Kappa": 0.8355,
+  "F1_macro": 0.8795,
+  "F1_weighted": 0.8664,
+  "n_params": 10696,
+  "train_time_s": 44.61,
+  "inference_time_s": 0.37,
+  "state": "California",
+  "config": "S2_all",
+  "covariates_used": "all"
+}

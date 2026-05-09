@@ -1,0 +1,12 @@
+{
+  "OA": 0.8724,
+  "Kappa": 0.845,
+  "F1_macro": 0.8846,
+  "F1_weighted": 0.8725,
+  "n_params": 10536,
+  "train_time_s": 71.74,
+  "inference_time_s": 0.377,
+  "state": "California",
+  "config": "S2_soil",
+  "covariates_used": "soil"
+}

@@ -1,0 +1,12 @@
+{
+  "OA": 0.8694,
+  "Kappa": 0.8413,
+  "F1_macro": 0.8836,
+  "F1_weighted": 0.8706,
+  "n_params": 10504,
+  "train_time_s": 50.65,
+  "inference_time_s": 0.358,
+  "state": "California",
+  "config": "S2_topo",
+  "covariates_used": "topo"
+}

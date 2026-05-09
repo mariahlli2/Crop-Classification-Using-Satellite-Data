@@ -1,0 +1,12 @@
+{
+  "OA": 0.962,
+  "Kappa": 0.9525,
+  "F1_macro": 0.9618,
+  "F1_weighted": 0.962,
+  "n_params": 10375,
+  "train_time_s": 45.4,
+  "inference_time_s": 0.34,
+  "state": "Arkansas",
+  "config": "S2_topo",
+  "covariates_used": "topo"
+}

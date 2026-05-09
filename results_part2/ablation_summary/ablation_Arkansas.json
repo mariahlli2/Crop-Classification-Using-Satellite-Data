@@ -1,0 +1,62 @@
+{
+  "S2_only": {
+    "OA": 0.9578,
+    "Kappa": 0.9472,
+    "F1_macro": 0.9573,
+    "F1_weighted": 0.9576,
+    "n_params": 7703,
+    "train_time_s": 27.11,
+    "inference_time_s": 0.423,
+    "state": "Arkansas",
+    "config": "S2_only",
+    "covariates_used": "none"
+  },
+  "S2_climate": {
+    "OA": 0.9598,
+    "Kappa": 0.9497,
+    "F1_macro": 0.9593,
+    "F1_weighted": 0.9595,
+    "n_params": 10407,
+    "train_time_s": 43.31,
+    "inference_time_s": 0.384,
+    "state": "Arkansas",
+    "config": "S2_climate",
+    "covariates_used": "clim"
+  },
+  "S2_soil": {
+    "OA": 0.9595,
+    "Kappa": 0.9494,
+    "F1_macro": 0.9593,
+    "F1_weighted": 0.9595,
+    "n_params": 10407,
+    "train_time_s": 45.31,
+    "inference_time_s": 0.395,
+    "state": "Arkansas",
+    "config": "S2_soil",
+    "covariates_used": "soil"
+  },
+  "S2_topo": {
+    "OA": 0.962,
+    "Kappa": 0.9525,
+    "F1_macro": 0.9618,
+    "F1_weighted": 0.962,
+    "n_params": 10375,
+    "train_time_s": 51.12,
+    "inference_time_s": 0.334,
+    "state": "Arkansas",
+    "config": "S2_topo",
+    "covariates_used": "topo"
+  },
+  "S2_all": {
+    "OA": 0.9605,
+    "Kappa": 0.9506,
+    "F1_macro": 0.9601,
+    "F1_weighted": 0.9603,
+    "n_params": 10567,
+    "train_time_s": 33.14,
+    "inference_time_s": 0.373,
+    "state": "Arkansas",
+    "config": "S2_all",
+    "covariates_used": "all"
+  }
+}

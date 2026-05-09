@@ -1,0 +1,12 @@
+{
+  "OA": 0.9595,
+  "Kappa": 0.9494,
+  "F1_macro": 0.9593,
+  "F1_weighted": 0.9595,
+  "n_params": 10407,
+  "train_time_s": 45.13,
+  "inference_time_s": 0.331,
+  "state": "Arkansas",
+  "config": "S2_soil",
+  "covariates_used": "soil"
+}

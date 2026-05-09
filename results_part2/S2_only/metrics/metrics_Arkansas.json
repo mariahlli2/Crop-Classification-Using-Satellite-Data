@@ -1,0 +1,12 @@
+{
+  "OA": 0.9578,
+  "Kappa": 0.9472,
+  "F1_macro": 0.9573,
+  "F1_weighted": 0.9576,
+  "n_params": 7703,
+  "train_time_s": 23.34,
+  "inference_time_s": 0.354,
+  "state": "Arkansas",
+  "config": "S2_only",
+  "covariates_used": "none"
+}

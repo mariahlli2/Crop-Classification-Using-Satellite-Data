@@ -1,0 +1,14 @@
+{
+  "OA": 0.9041,
+  "Kappa": 0.8835,
+  "F1_macro": 0.914,
+  "F1_weighted": 0.9044,
+  "n_params": 129616,
+  "train_time_s": 99.56,
+  "inference_time_s": 0.345,
+  "state": "California",
+  "config": "AttentionCNN",
+  "model": "AttentionCNN_v3",
+  "covariates_used": "all",
+  "n_covariates": 8
+}
